@@ -15,7 +15,7 @@ Speaker 0: Hi I am Amrit<br />
 Speaker 1: Hi i am Srishti<br />
 This can be found in file [Data_Prep.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep.ipynb)
 
-**Data Tagging:**
+**Data Tagging/Dictionary Defination:**
 Generation is a process of identifying the topics and their associated tags in the conversations.<br />
 For example The tags in - “Are you fan of Google or Microsoft? Both are excellent Technology they are helpful in many ways. Google is a leading alphabet subsidiary and Chrome OS is one of the best product. Did you know google has hundreds of life quotes to cut the grass in the past?”
 are **Org** - Google, Microsoft, Alphabet and **Cardinal** - hundreds.<br />
