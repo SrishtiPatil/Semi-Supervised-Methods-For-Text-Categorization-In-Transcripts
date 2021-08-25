@@ -20,3 +20,8 @@ Generation is a process of identifying the topics and their associated tags in t
 For example The tags in - “Are you fan of Google or Microsoft? Both are excellent Technology they are helpful in many ways. Google is a leading alphabet subsidiary and Chrome OS is one of the best product. Did you know google has hundreds of life quotes to cut the grass in the past?”
 are **Org** - Google, Microsoft, Alphabet and **Cardinal** - hundreds.<br />
 This can be found in file [Tag_Generation.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Tag_Generation.ipynb)
+
+**Topic and Tags assignment**
+Once the dictionary is defined to assign the tag to the entire dataset that we have. First we
+need to separate the speaker and the message, assign the tags to the message then convert it
+to a tuple, and store it as tagged training data set
