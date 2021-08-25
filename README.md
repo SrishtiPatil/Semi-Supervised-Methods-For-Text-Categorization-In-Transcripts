@@ -12,9 +12,12 @@ Source: https://github.com/alexa/Topical-Chat/tree/master/conversations
 **Data Preparation:** 
 The first task was to get the JSON object data into an alternate speaker format<br />
 Speaker 0: Hi I am Amrit<br />
-Speaker 1: Hi i am Nikhil/Srishti<br />
+Speaker 1: Hi i am Srishti<br />
 This can be found in file [Data_Prep_alexa_github.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep_alexa_github.ipynb)
 
-
 **Data Tagging:**
-As the approach chosen was Supervised Approach I needed to tag over 1800,000 rows. Each statement had more than one topic hence to avoid making it laborious I opted for a semi-supervised approach for tagging. I used the Spacy library for tagging each word. 
+Generation is a process of identifying the topics and their associated tags in the conversations.
+For example The tags in - “Are you fan of Google or Microsoft? Both are excellent Technology they are helpful in many ways. Google is a leading alphabet subsidiary and Chrome OS is one of
+the best product. Did you know google has hundreds of life quotes to cut the grass in the past?”
+are Org - Google, Microsoft, Alphabet and Cardinal - hundreds. 
+This can be found in file [Data_Prep_alexa_github.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep_alexa_github.ipynb)
