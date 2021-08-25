@@ -13,11 +13,10 @@ Source: https://github.com/alexa/Topical-Chat/tree/master/conversations
 The first task was to get the JSON object data into an alternate speaker format<br />
 Speaker 0: Hi I am Amrit<br />
 Speaker 1: Hi i am Srishti<br />
-This can be found in file [Data_Prep_alexa_github.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep_alexa_github.ipynb)
+This can be found in file [Data_Prep.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep.ipynb)
 
 **Data Tagging:**
-Generation is a process of identifying the topics and their associated tags in the conversations.
-For example The tags in - “Are you fan of Google or Microsoft? Both are excellent Technology they are helpful in many ways. Google is a leading alphabet subsidiary and Chrome OS is one of
-the best product. Did you know google has hundreds of life quotes to cut the grass in the past?”
-are Org - Google, Microsoft, Alphabet and Cardinal - hundreds. 
-This can be found in file [Data_Prep_alexa_github.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Data_Prep_alexa_github.ipynb)
+Generation is a process of identifying the topics and their associated tags in the conversations.<br />
+For example The tags in - “Are you fan of Google or Microsoft? Both are excellent Technology they are helpful in many ways. Google is a leading alphabet subsidiary and Chrome OS is one of the best product. Did you know google has hundreds of life quotes to cut the grass in the past?”
+are **Org** - Google, Microsoft, Alphabet and **Cardinal** - hundreds.<br />
+This can be found in file [Tag_Generation.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Tag_Generation.ipynb)
