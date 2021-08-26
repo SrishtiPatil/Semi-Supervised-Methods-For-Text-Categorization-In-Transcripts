@@ -38,6 +38,5 @@ any name and not all names are included in the training dictionary), Geo-Politic
 scores are low. But for generalized tags, the scores are satisfactorily high. Of all the 3 models
 applied **One vs Rest-Naive Bayes** gave the best accuracy.
 The results of algorithms performance is attached below:
-<p align="center">
-  <img src="https://drive.google.com/file/d/1V9nu55qGMGEDPLSsGTw4QhcUBCs5pp4A/view?usp=sharing" width="350" title="Performance Metrics: Accuracy" />
-</p>
+![Accuracy](https://user-images.githubusercontent.com/24762755/130923138-db64c847-ea6e-4143-b6ed-61300dba7d7b.jpg)
+
