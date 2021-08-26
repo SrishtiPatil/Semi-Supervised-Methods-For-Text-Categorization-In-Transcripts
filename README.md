@@ -5,7 +5,7 @@ Make a model that would correctly identify topics that are being discussed in th
 **Data:**<br />
 The data is a topical chat with Alexa in JSON format. The data has multiple conversations with
 almost any random topic. The topics are not restricted to any particular domain and can range
-from sports to politics, to leading organizations. The dataset contains human-human knowledgegrounded open-domain conversations. 
+from sports to politics, to leading organizations. The dataset contains human-human knowledge-grounded open-domain conversations. 
 
 Source: https://github.com/alexa/Topical-Chat/tree/master/conversations
 
