@@ -39,5 +39,5 @@ scores are low. But for generalized tags, the scores are satisfactorily high. Of
 applied **One vs Rest-Naive Bayes** gave the best accuracy.
 The results of algorithms performance is attached below:
 <p align="center">
-  <img src="![image](https://drive.google.com/file/d/1V9nu55qGMGEDPLSsGTw4QhcUBCs5pp4A/view?usp=sharing)" width="350" title="Performance Metrics: Accuracy" />
+  <img src="https://drive.google.com/file/d/1V9nu55qGMGEDPLSsGTw4QhcUBCs5pp4A/view?usp=sharing" width="350" title="Performance Metrics: Accuracy" />
 </p>
