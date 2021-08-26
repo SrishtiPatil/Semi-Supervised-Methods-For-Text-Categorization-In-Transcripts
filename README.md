@@ -1,4 +1,5 @@
-# Supervised methods for text categorization
+# Semi-Supervised Methods For Text Categorization In Transcripts
+
 **Objective:**<br />
 Make a model that would correctly identify topics that are being discussed in the transcripts.
 
