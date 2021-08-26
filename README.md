@@ -26,3 +26,8 @@ Once the dictionary is defined to assign the tag to the entire dataset that we h
 need to separate the speaker and the message, assign the tags to the message then convert it
 to a tuple, and store it as tagged training data set<br />
 This can be found in file [Topics_and_Tagging.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Topics_and_Tagging.ipynb)
+
+**Algorithm Application:**Since the data was multilabel, the target variable needed to be separated(similar to one-hot encoding). To achieve this MultilabelBinariser was used. This converted the tagged variable into a matrix with 18 columns(18 tags).<br />
+Since the approach is supervised classification algorithms chosen are Naive Bayes, Linear SVC, and Logistic regression. As the data had multiple labels the approach is One vs Rest(OVR) for all the algorithms.<br />
+This can be found in file [TopicClassificationAlgo.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/TopicClassificationAlgo.ipynb)
+
