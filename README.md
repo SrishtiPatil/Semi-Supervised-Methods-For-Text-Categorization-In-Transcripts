@@ -37,3 +37,7 @@ The validation accuracies are much better than expected. For Tags like Person(wh
 any name and not all names are included in the training dictionary), Geo-Political Entity the
 scores are low. But for generalized tags, the scores are satisfactorily high. Of all the 3 models
 applied **One vs Rest-Naive Bayes** gave the best accuracy.
+The results of algorithms performance is attached below:
+<p align="center">
+  <img src="![image](https://user-images.githubusercontent.com/24762755/130919509-410d8fe1-dc0d-4143-86ad-a6edbb3d20f6.png)" width="350" title="Performance Metrics: Accuracy" />
+</p>
