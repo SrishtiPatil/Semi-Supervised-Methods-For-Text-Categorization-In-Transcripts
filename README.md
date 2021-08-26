@@ -24,4 +24,5 @@ This can be found in file [Tag_Generation.ipynb](https://github.com/SrishtiPatil
 **Topic and Tags assignment**:
 Once the dictionary is defined to assign the tag to the entire dataset that we have. First we
 need to separate the speaker and the message, assign the tags to the message then convert it
-to a tuple, and store it as tagged training data set
+to a tuple, and store it as tagged training data set<br />
+This can be found in file [Topics_and_Tagging.ipynb](https://github.com/SrishtiPatil/supervised-methods-for-text-categorization/blob/main/Topics_and_Tagging.ipynb)
